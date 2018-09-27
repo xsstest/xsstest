@@ -1,2 +1,1 @@
-<p>thx for </p><b>XSS</b>
-<script>alert("Hello")</script>
+<p script="alert("eh")">thx for </p><b>XSS</b>
