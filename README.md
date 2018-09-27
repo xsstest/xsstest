@@ -1,1 +1,1 @@
-<p script="alert("eh")">thx for </p><b>XSS</b>
+<p <script>sajd</script>>thx for </p><b>XSS</b>
